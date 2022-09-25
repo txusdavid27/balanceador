@@ -1,2 +1,2 @@
 # balanceador
-Proyecto de Sistemas DIstribuidos
+Proyecto de Sistemas Distribuidos
