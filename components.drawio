@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T16:00:21.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="4x2KRHeokoMfFZl_cKbg" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-26T16:04:19.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="VhOZaoS5JQl5Q_0h_p8M" version="20.3.6" type="github">
   <diagram id="KfEvI-uDoNi1gghF4SNJ" name="Page-1">
     <mxGraphModel dx="821" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,9 @@
         <mxCell id="t58X7TJkt6s0l1WARzhu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="t58X7TJkt6s0l1WARzhu-1" target="t58X7TJkt6s0l1WARzhu-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="t58X7TJkt6s0l1WARzhu-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.404;entryY=1.236;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;fontSize=8;endArrow=classic;endFill=1;" edge="1" parent="1" source="t58X7TJkt6s0l1WARzhu-1" target="t58X7TJkt6s0l1WARzhu-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t58X7TJkt6s0l1WARzhu-1" value="TiendaOnline" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="130" width="120" height="60" as="geometry" />
         </mxCell>
@@ -26,6 +29,9 @@
               <mxPoint x="500" y="250" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="t58X7TJkt6s0l1WARzhu-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=8;endArrow=classic;endFill=1;" edge="1" parent="1" source="t58X7TJkt6s0l1WARzhu-2" target="t58X7TJkt6s0l1WARzhu-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t58X7TJkt6s0l1WARzhu-2" value="Cliente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="10" width="120" height="60" as="geometry" />
@@ -39,6 +45,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="t58X7TJkt6s0l1WARzhu-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=8;endArrow=classic;endFill=1;" edge="1" parent="1" source="t58X7TJkt6s0l1WARzhu-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="t58X7TJkt6s0l1WARzhu-3" value="Orden" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -47,15 +58,6 @@
         </mxCell>
         <mxCell id="t58X7TJkt6s0l1WARzhu-5" value="Persistencia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="t58X7TJkt6s0l1WARzhu-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontSize=8;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t58X7TJkt6s0l1WARzhu-58" target="t58X7TJkt6s0l1WARzhu-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="300" y="140" />
-              <mxPoint x="300" y="215" />
-              <mxPoint x="390" y="215" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="t58X7TJkt6s0l1WARzhu-6" value="Interacción" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="125" width="120" height="60" as="geometry" />
